@@ -92,3 +92,4 @@ Your final project review is a comprehensive review that can cover all the topic
 - There's nothing you can do to instantly fail or blow it.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-redux-assessment'>React Redux Portfolio Project</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Building a client-side application with React-Redux</p>
